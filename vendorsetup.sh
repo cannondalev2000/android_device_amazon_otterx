@@ -15,5 +15,5 @@
 #
 
 add_lunch_combo full_otterx-userdebug
-add_lunch_combo cm_otterx-userdebug
+add_lunch_combo broken_otterx-userdebug
 
